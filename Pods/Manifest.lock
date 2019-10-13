@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - Kingfisher (5.8.3):
+    - Kingfisher/Core (= 5.8.3)
+  - Kingfisher/Core (5.8.3)
+  - LoadingPlaceholderView (0.0.2)
+
+DEPENDENCIES:
+  - Alamofire (= 5.0.0-rc.2)
+  - Kingfisher (~> 5.8)
+  - LoadingPlaceholderView (~> 0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - LoadingPlaceholderView
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  Kingfisher: b7e4cb65ff24c264bd2a1284b75b974d907afd94
+  LoadingPlaceholderView: e913f5ae2673612d405ce395acca7cedb1bfaa81
+
+PODFILE CHECKSUM: cd5a8e5e74c3c224a0a2bd1fe837e23de1f5baff
+
+COCOAPODS: 1.7.2
